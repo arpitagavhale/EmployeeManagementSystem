@@ -19,7 +19,28 @@ A desktop-based **Employee Management System** developed in **Java** to efficien
 - NetBeans IDE
 - Apache Ant
 - File Handling / Database (Update this according to your project)
+  
+**Example:**
+- Login Screen
+- Dashboard
+- Add Employee
+- Employee List
 
+## 📖 Learning Outcomes
+
+- Java Programming
+- Object-Oriented Programming (OOP)
+- GUI Development using Swing
+- CRUD Operations
+- Project Structure using NetBeans
+
+## 🌟 Future Enhancements
+
+- User Authentication
+- MySQL Database Integration
+- Report Generation
+- Export Employee Data to PDF/Excel
+- Improved UI Design
 - Example:
 
 - Login Screen
